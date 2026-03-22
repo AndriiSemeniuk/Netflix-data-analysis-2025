@@ -31,5 +31,7 @@ Based on the data visualization, the following trends were identified:
 
 * Poster Netflix.pdf — Visual summary and infographic of the project.
 
+---
 ## Author
-Developed by Andrii Semeniuk as part of the Data Analytical Tools module at CCT College Dublin.
+Andrii Semeniuk  
+Diploma in Data Analytics for Business, CCT College Dublin
